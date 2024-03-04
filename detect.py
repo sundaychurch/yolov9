@@ -1,4 +1,4 @@
-2import argparse
+1import argparse
 import os
 import platform
 import sys
@@ -18,7 +18,7 @@ from utils.general import (LOGGER, Profile, check_file, check_img_size, check_im
                            increment_path, non_max_suppression, print_args, scale_boxes, strip_optimizer, xyxy2xywh)
 from utils.plots import Annotator, colors, save_one_box
 from utils.torch_utils import select_device, smart_inference_mode
-#whataaaaa
+
 
 @smart_inference_mode()
 def run(

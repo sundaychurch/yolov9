@@ -1,6 +1,6 @@
-2it is something new# requirements
+1it is something new# requirements
 # Usage: pip install -r requirements.txt
-#esdfgrthyujikolp;[
+
 # Base ------------------------------------------------------------------------
 gitpython
 ipython
